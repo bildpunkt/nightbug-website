@@ -1,0 +1,9 @@
+.nb-jumbotron {
+    color: #fff;
+    text-align: center;
+    
+    background: -moz-linear-gradient(top, #372a73 0%, #101651 100%);
+    background: -webkit-linear-gradient(top, #372a73 0%,#101651 100%);
+    background: linear-gradient(to bottom, #372a73 0%,#101651 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#372a73', endColorstr='#101651',GradientType=0 );
+}
