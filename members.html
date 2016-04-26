@@ -1,0 +1,13 @@
+---
+layout: default
+title: Members
+permalink: /members/
+---
+
+<div class="page jumbotron nb-jumbotron nm">
+    <h1>Members</h1>
+    <p>The people who assemble this crazy collective</p>
+</div>
+{% for member in site.data.members %}
+  {% include member.html %}
+{% endfor %}

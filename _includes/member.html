@@ -1,0 +1,45 @@
+<div class="nb-member" style="background-image: url('{{ member.background }}');">
+    <div class="wrapper">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-4 col-xs-12">
+                 <img class="img-responsive img-rounded" src="/assets/img/members/{{ member.avatar }}"/>
+                </div>
+                <div class="col-md-9 col-sm-8 col-xs-12">
+                    <h1>{{ member.username }}</h1>
+                    <p>{{ member.title }}</p>
+
+                    <p>{{ member.description }}</p>
+
+                    <p class="skills">Skills:</p>
+                    <ul>
+                        {% for skill in member.skills %}
+                        <li>{{ skill }}</li>
+                        {% endfor %}
+                    </ul>
+
+                    <div class="row links-row">
+                        <div class="col-md-2 col-sm-2 col-xs-3">
+                            <a href="{{ member.website }}">
+                                <i class="fa fa-globe"></i>
+                                <span>Website</span>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-3">
+                            <a href="https://github.com/{{ member.github }}">
+                                <i class="fa fa-github"></i>
+                                <span>Github</span>
+                            </a>
+                        </div>
+                        <div class="col-md-2 col-sm-2 col-xs-3">
+                            <a href="https://twitter.com/{{ member.twitter }}">
+                                <i class="fa fa-twitter"></i>
+                                <span>Twitter</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>    
+</div>
