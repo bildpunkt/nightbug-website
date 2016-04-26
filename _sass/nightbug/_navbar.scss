@@ -1,0 +1,20 @@
+$navbar-default-bg: #4B3A9A;
+$navbar-default-link-color: #fff;
+$navbar-default-hover-color: #f1f1f1;
+$navbar-default-link-hover-color: $navbar-default-hover-color;
+
+.navbar.navbar-default {
+    background-color: transparent;
+}
+.navbar.navbar-default {
+  transition: background-color .25s ease-in-out;
+
+  &.affix-top {
+    background-color: transparent;
+    transition: background-color .25s ease-in-out;
+  }
+    
+  &.affix {
+    background-color: #4B3A9A;
+  }
+}
