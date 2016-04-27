@@ -45,3 +45,19 @@
   twitter: nilsding
   avatar: nilsding.jpg
   background: http://i.imgur.com/pmJHjj5.png
+
+- username: "txanatan"
+  title: "Backend Developer"
+  description: "Mostly writes backend code, occasionally does some design stuff too. Lives in a weird country that has Christmas on the beach. Huge Madoka Magica fan."
+  skills:
+    - "HTML"
+    - "CSS"
+    - "Python"
+    - "Go"
+    - "Ruby"
+    - "C#"
+  website: "http://txanatan.xyz"
+  github: "txanatan"
+  twitter: "txanatan"
+  avatar: "txanatan.jpg"
+  background: "http://txanatan.xyz/wp-content/uploads/2016/04/test.png"
