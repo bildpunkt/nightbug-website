@@ -9,7 +9,7 @@ This is the repository containing all data needed to build the website for Night
 * Ruby
 * Jekyll
 
-If both of these dependencies are installed you can just run `jekyll build` to compile the lastest version of the website into the `_site` folder.
+If both of these dependencies are installed you can just run `jekyll build` to compile the lastest version of the website into the `_site` folder.  Use `jekyll serve -w` to start up a web server and view your changes in a browser.
 
 ## How member data works
 
