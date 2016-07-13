@@ -32,14 +32,13 @@
 
 - username: nilsding
   title: "Krazy Kode Kreator"
-  description: 'Most of the time a backend developer.  Server administrator.  Enjoys the outside.  Wants things to Just Work&trade; well.'
+  description: 'Primarily a backend developer.  Server administrator.  Enjoys the outside.  Wants things to Just Work&trade; well.'
   skills:
+    - Ruby
     - C/C++
     - 'C#'
     - FreeBSD
-    - iOS
     - Qt
-    - Ruby
   website: https://nilsding.org
   github: nilsding
   twitter: nilsding
