@@ -89,3 +89,19 @@
   twitter: mltnhm
   avatar: mh.png
   background: "http://i.imgur.com/yP06td4.png"
+
+- username: elycin
+  title: "Legendary Insomniac"
+  description: "Will rm -rf / --no-preserve-root at any given chance."
+  skills:
+    - "PHP"
+    - Laravel
+    - Python
+    - HTML
+    - System Administration
+    - MySQL
+  website: "https://elyc.in"
+  github: elycin
+  twitter: iamelycin
+  avatar: "https://s.gravatar.com/avatar/3dfdc399ebc931d58d7f7b3dbbac36f9?s=200"
+  background: "https://i.pitter.us/vQdzCq.jpg"
