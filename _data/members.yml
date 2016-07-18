@@ -45,14 +45,16 @@
   avatar: nilsding.jpg
   background: http://i.imgur.com/pmJHjj5.png
 
-- username: pudding
-  title: stawberri flavored kittehgirl
-  description: Tries to be cute but is otherwise rather useless
+- username: Pudding
+  title: <script>while(~alert('nyaa~'));</script>
+  description: I'm a stawberri flavored kittehgirl who tries too hard to make code look cute.
   skills:
-    - being a catgirl
-    - trying to be cute
-    - failing at being cute
-  website: http://aideen.pw
+    - Being a catgirl
+    - LiveScript
+    - Node.js
+    - jQuery
+    - Writing documentation
+  website: https://aideen.pw
   github: stawberri
   twitter: stawbewwi
   avatar: pudding.png
