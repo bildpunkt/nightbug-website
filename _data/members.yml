@@ -46,7 +46,7 @@
   background: http://i.imgur.com/pmJHjj5.png
 
 - username: Pudding
-  title: <script>while(~alert('nyaa~'));</script>
+  title: &lt;script&gt;while(~alert('nyaa~'));&lt;&#47;script&gt;
   description: I'm a stawberri flavored kittehgirl who tries too hard to make code look cute.
   skills:
     - Being a catgirl
