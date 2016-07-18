@@ -46,7 +46,7 @@
   background: http://i.imgur.com/pmJHjj5.png
 
 - username: Pudding
-  title: &lt;script&gt;while(~alert('nyaa~'));&lt;&#47;script&gt;
+  title: "&lt;script&gt;while(~alert('nyaa~'));&lt;/script&gt;"
   description: I'm a stawberri flavored kittehgirl who tries too hard to make code look cute.
   skills:
     - Being a catgirl
@@ -58,7 +58,7 @@
   github: stawberri
   twitter: stawbewwi
   avatar: pudding.png
-  background: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAJ1BMVEUAAACB2NCZZsyB2NCZZsyZZsyB2NCB2NCZZsyB2NCB2NCB2NCZZsyYWNHbAAAAC3RSTlMA8/O+vk1NhIRMTiwk5bYAAABySURBVHgB7dOBCcQwDENROU7S9pL95z0oXsGGkv8WEMiyTgIAAEZvrQ+luvfrVqKxw1CevkNXnrZDqw+pr6vq8PUTrn9GAAAAAACA6Wb+KNW1XpcSPStM5fEVXHlsBSsJ+Xpdc4X54QmHn5v51EEAAMAfR0wGUwHPf+EAAAAASUVORK5CYII=
+  background: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAJ1BMVEUAAACB2NCZZsyB2NCZZsyZZsyB2NCB2NCZZsyB2NCB2NCB2NCZZsyYWNHbAAAAC3RSTlMA8/O+vk1NhIRMTiwk5bYAAABySURBVHgB7dOBCcQwDENROU7S9pL95z0oXsGGkv8WEMiyTgIAAEZvrQ+luvfrVqKxw1CevkNXnrZDqw+pr6vq8PUTrn9GAAAAAACA6Wb+KNW1XpcSPStM5fEVXHlsBSsJ+Xpdc4X54QmHn5v51EEAAMAfR0wGUwHPf+EAAAAASUVORK5CYII='
 
 - username: "txanatan"
   title: "Backend Developer"
