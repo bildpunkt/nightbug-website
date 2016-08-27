@@ -46,14 +46,12 @@
   background: https://i.imgur.com/pmJHjj5.png
 
 - username: Pudding
-  title: "&lt;script&gt;while(~alert('nyaa~'));&lt;/script&gt;"
+  title: "<span id='puddi-title' style='display:inline-block;overflow:hidden;width:100%;white-space:nowrap'><script>~function(a,d,w){a(a,d,w)}(function(a,d,w){var e=d.querySelector('#puddi-title'),c='textContent',t=e[c];e[c]=t.slice(1)+t[0];w.requestAnimationFrame(function(){a(a,d,w)})},document,window)</script></span>"
   description: I'm a stawberri flavored kittehgirl who tries too hard to make code look cute.
   skills:
-    - Being a catgirl
-    - LiveScript
+    - Being a cutie
+    - JavaScript
     - Node.js
-    - jQuery
-    - Writing documentation
   website: https://aideen.pw
   github: stawberri
   twitter: stawbewwi
